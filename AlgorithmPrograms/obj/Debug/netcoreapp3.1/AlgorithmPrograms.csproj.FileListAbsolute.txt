@@ -1,0 +1,13 @@
+C:\Users\Sandeep\Desktop\CSharp\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\netcoreapp3.1\AlgorithmPrograms.exe
+C:\Users\Sandeep\Desktop\CSharp\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\netcoreapp3.1\AlgorithmPrograms.deps.json
+C:\Users\Sandeep\Desktop\CSharp\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\netcoreapp3.1\AlgorithmPrograms.runtimeconfig.json
+C:\Users\Sandeep\Desktop\CSharp\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\netcoreapp3.1\AlgorithmPrograms.runtimeconfig.dev.json
+C:\Users\Sandeep\Desktop\CSharp\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\netcoreapp3.1\AlgorithmPrograms.dll
+C:\Users\Sandeep\Desktop\CSharp\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\netcoreapp3.1\AlgorithmPrograms.pdb
+C:\Users\Sandeep\Desktop\CSharp\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\netcoreapp3.1\AlgorithmPrograms.csproj.AssemblyReference.cache
+C:\Users\Sandeep\Desktop\CSharp\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\netcoreapp3.1\AlgorithmPrograms.AssemblyInfoInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\netcoreapp3.1\AlgorithmPrograms.AssemblyInfo.cs
+C:\Users\Sandeep\Desktop\CSharp\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\netcoreapp3.1\AlgorithmPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\netcoreapp3.1\AlgorithmPrograms.dll
+C:\Users\Sandeep\Desktop\CSharp\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\netcoreapp3.1\AlgorithmPrograms.pdb
+C:\Users\Sandeep\Desktop\CSharp\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\netcoreapp3.1\AlgorithmPrograms.genruntimeconfig.cache
